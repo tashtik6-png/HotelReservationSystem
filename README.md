@@ -30,7 +30,7 @@ Driver: JDBC (MySQL Connector/J)
 
 Environment: IntelliJ IDEA
 
-🔧 Setup & Installation
+Setup & Installation
 1. Database Setup
 Execute the following script in your MySQL Workbench or Command Line to initialize the schema:
 
